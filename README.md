@@ -30,3 +30,8 @@ board;3 high-speed counters (expandable with digital signal board) and 4 pulse o
 
 
 ## Files
+- **levelcontrolcode.pdf** : it's the plc code
+- **LevelControlHMI.pdf** : it's the HMI settings
+- ** ** : it's a demonstration of how it works
+- **levelcontrol.factoryio**: it's the factory io file 
+- ** **: it's the folder for the tia portal
