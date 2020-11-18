@@ -1,0 +1,20 @@
+þÿÿÿé###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleNetwork commentLADFBD CodeSCL CodeCommentDatatypeAddressValue###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreAuthorFamilyUser-defined IDInstance DBNameInFunctionalViewNameInDBFullNameInDBAcknowledgementModelIdAcknowledgedText
+ComingText	GoingTextCommonAlarmClassAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswdStationNamePartnerNameNodeName	CycleUnit	CycleTimeTextNumber	ShortName
+LogoutTimeTagAddressPanelInfoAcquisitionTriggerModeAcquisitionCycleDataTypeCodingPlcNameControllerTagLimitHighConstantLimitLowConstant	JobNumber
+StartValue	BackColor	GridColorAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorCaptionColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FocusColorGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColor	FunctionsBackFillStyleBorderBackColorBorderColor	EdgeStyleFirstGradientColorFont	ForeColorHorizontalAlignmentHorizontalPictureAlignmentMiddleGradientColorModePictureAutoSizing	PictureOnSecondGradientColorTextOffTextOnTextOrientationVerticalAlignmentVerticalPictureAlignmentAboveUpperLimitColorBelowLowerLimitColorEvenRowBackColorSelectBackColorSelectForeColorTextListPropertyNameTagValueForPropertyTagPageAdaptPicture
+AutoSizingPictureTemplateFlashing
+DataFormatFormatPatternUnitAddressAccessMode
+ConnectionHelpTextInnerBackColorOffInnerBackColorOnSwitchOrientationEmailAddress
+ServerName
+PortNumberWindowsDomainConfirmationTypeLimitHighLowConstantLimitLowHighConstantTransparentColor
+FilterTextViewType
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityProcessValueUITypeEditorBitPositionAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarEdgeStyleBarOrientation
+ScaleColorScalePositionSegmentColoringWarningLowerLimitColorWarningUpperLimitColorBarColorBorderBrightColor3DBorderInnerStyle3DBorderOuterStyle3DBorderShadeColor3D
+LabelColorPositionFontThumbBackColor	TickStyleUITypeEditorStartvalueUITypeEditorEndvalueCaptionColorCaptionFontCaptionTextCenterColorDangerLowerRangeColorDangerRangeColor	DialColorDialFillStyleInnerDialColorNormalRangeColorPointerColorScaleLabelColorScaleLabelFontScaleTickColor	UnitColorUnitFontUnitTextWarningLowerRangeColorWarningRangeColorAuthorizationUITypeEditorTagExpressionColorEndStyle	FillStyleLineEndShapeStyle
+StartStyleStyleRangeFromToLayerAcknowledgementBitAddress
+AlarmClassPlcAcknowledgementBitAddressTriggerBitAddress	AlarmTextDelayTimeUnitHysteresisMode	LimitMode
+LimitValue
+TriggerTag
